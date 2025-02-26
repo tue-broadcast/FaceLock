@@ -1,3 +1,7 @@
+<a href="https://buymeacoffee.com/tue_broadcast">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" style="height: 60px;">
+</a>
+
 # FaceLock
 FaceLock: Auto-Lock Windows with Webcam Face Detection
 
@@ -21,3 +25,7 @@ A lightweight Python script that uses your webcam to detect your presence. If no
 4. Step away—your PC locks after 15 seconds of no face detection!
 
 Contributions welcome! Feel free to fork, improve, or adapt this for other platforms.
+
+<a href="https://buymeacoffee.com/tue_broadcast">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me a Coffee" style="height: 60px;">
+</a>
